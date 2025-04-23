@@ -2,7 +2,7 @@
 
 A Python implementation of Principal Component Analysis (PCA) based pansharpening for enhancing multispectral satellite imagery using high-resolution panchromatic data.
 
-![Workflow Diagram](https://github.com/rupesh4604/pansharpening_with_pca/raw/main/images/workflow.png)
+<!--![Workflow Diagram](https://github.com/rupesh4604/pansharpening_with_pca/raw/main/images/algorithm.png) -->
 
 ## Overview
 
