@@ -109,6 +109,7 @@ The repository includes sample Landsat data for testing:
 
 The PCA pansharpening method provides better spatial resolution while preserving the spectral information of the original multispectral image. The algorithm is especially effective for enhancing details in remote sensing applications such as vegetation mapping, urban analysis, and change detection.
 
+![Results](https://github.com/rupesh4604/pansharpening_with_pca/raw/main/images/Picture1.png) 
 
 ## License
 
